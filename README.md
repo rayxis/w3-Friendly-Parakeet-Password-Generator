@@ -1,4 +1,4 @@
-# Password Generator
+# Friendly Parakeet Password Generator
 
 ## Description
 
